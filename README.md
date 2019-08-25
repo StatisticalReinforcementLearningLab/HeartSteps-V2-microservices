@@ -1,0 +1,1 @@
+# walking-suggestion-service-hs2
