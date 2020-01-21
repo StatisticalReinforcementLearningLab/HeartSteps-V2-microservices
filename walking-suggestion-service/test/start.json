@@ -1,0 +1,204 @@
+{
+  "userID": 10000,
+  "date": "2019-05-10",
+  "totalStepsArray": [
+    12310,
+    10000,
+    null,
+    10000,
+    10000,
+    11111,
+    22222,
+    12401
+  ],
+  "preStepsMatrix": [
+    {
+      "steps": [
+        null,
+        2,
+        null,
+        30,
+        10
+      ]
+    },
+    {
+      "steps": [
+        123,
+        243,
+        1231,
+        30,
+        100
+      ]
+    },
+    {
+      "steps": [
+        103,
+        1232,
+        null,
+        301,
+        103
+      ]
+    },
+    {
+      "steps": [
+        100,
+        2,
+        null,
+        30,
+        null
+      ]
+    },
+    {
+      "steps": [
+        1100,
+        23,
+        null,
+        303,
+        100
+      ]
+    },
+    {
+      "steps": [
+        100,
+        2,
+        null,
+        30,
+        100
+      ]
+    },
+    {
+      "steps": [
+        100,
+        2,
+        null,
+        30,
+        100
+      ]
+    },
+    {
+      "steps": [
+        100,
+        22,
+        133,
+        30,
+        1
+      ]
+    }
+  ],
+  "postStepsMatrix": [
+    {
+      "steps": [
+        100,
+        2,
+        null,
+        30,
+        100
+      ]
+    },
+    {
+      "steps": [
+        100,
+        2,
+        null,
+        3012,
+        100
+      ]
+    },
+    {
+      "steps": [
+        null,
+        21,
+        null,
+        330,
+        1010
+      ]
+    },
+    {
+      "steps": [
+        null,
+        2,
+        0,
+        30,
+        null
+      ]
+    },
+    {
+      "steps": [
+        100,
+        2,
+        1,
+        30,
+        100
+      ]
+    },
+    {
+      "steps": [
+        100,
+        2,
+        15,
+        30,
+        100
+      ]
+    },
+    {
+      "steps": [
+        100,
+        2,
+        null,
+        30,
+        100
+      ]
+    },
+    {
+      "steps": [
+        100,
+        null,
+        1,
+        30,
+        10
+      ]
+    }
+  ],
+  "PriorAntiMatrix": [
+    {
+      "priorAnti": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "priorAnti": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ]
+    }
+  ],
+  "DelieverMatrix": [
+    {
+      "walking": [
+        false,
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "walking": [
+        false,
+        false,
+        false,
+        true,
+        false
+      ]
+    }
+  ]
+}
